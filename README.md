@@ -1,1 +1,11 @@
 # SNA-25
+In law, finance, and journalism, identifying contradictions in texts is
+important to ensure data integrity. Traditional methods are often ineffec-
+tive. The article presents a contradiction detection system using knowl-
+edge graphs (KG). The system includes data processing, KG construction,
+embedding training, classification models, and evaluation. Methodology:
+text transformation into knowledge triples, KG compliance (DBpedia,
+Wikidata, UML), application of reasoning algorithms. Experiments on
+FEVER show a high accuracy of detecting contradictions with the KG
+model. The system is an effective tool for analyzing text data. Prospects:
+improving models, adapting to other languages and domains
